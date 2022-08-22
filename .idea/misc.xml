@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.37552083333333336" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/drawable/bus_image.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/drawable/busing_line_blue.xml" value="0.37552083333333336" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/drawable/busing_line_red.xml" value="0.37552083333333336" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/drawable/busline.xml" value="0.37552083333333336" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/drawable/busline_blue.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/drawable/busline_red.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/drawable/button_image.xml" value="0.37552083333333336" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/drawable/ediittext_image.xml" value="0.37552083333333336" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/drawable/ic_banner_foreground.xml" value="0.37552083333333336" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/drawable/ic_baseline_chevron_right_24.xml" value="0.37552083333333336" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/drawable/ic_baseline_directions_bus_24.xml" value="0.2171875" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.37552083333333336" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.37552083333333336" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/drawable/ic_launcher_background.xml" value="0.37552083333333336" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.37552083333333336" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.37552083333333336" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/drawable/inline_blue.xml" value="0.2171875" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/drawable/inline_red.xml" value="0.2171875" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/drawable/search_image.xml" value="0.37552083333333336" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/drawable/serach_image.xml" value="0.37552083333333336" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/drawable/smile.xml" value="0.2171875" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/drawable/soso.xml" value="0.37552083333333336" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/drawable/whitepaper.xml" value="0.2109375" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/layout/activity_main.xml" value="0.22021660649819494" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/layout/activity_main2.xml" value="0.359375" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/layout/fragment_dashboard.xml" value="0.359375" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/layout/fragment_home.xml" value="0.359375" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/layout/fragment_notifications.xml" value="0.359375" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/layout/listview_custom.xml" value="0.19479166666666667" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/layout/listview_layout.xml" value="0.359375" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/mipmap-anydpi-v26/ic_banner.xml" value="0.37552083333333336" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.37552083333333336" />
+        <entry key="..\:/Users/Choco/android_app/Bus/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.37552083333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
